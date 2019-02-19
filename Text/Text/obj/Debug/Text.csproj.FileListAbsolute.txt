@@ -1,0 +1,14 @@
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\bin\Debug\Text.exe.config
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\bin\Debug\Text.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\bin\Debug\Text.pdb
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\obj\Debug\Text.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Text\Text\obj\Debug\Text.pdb
+C:\Users\Роман\Desktop\Проекты\Text\Text\bin\Debug\Text.exe.config
+C:\Users\Роман\Desktop\Проекты\Text\Text\bin\Debug\Text.exe
+C:\Users\Роман\Desktop\Проекты\Text\Text\bin\Debug\Text.pdb
+C:\Users\Роман\Desktop\Проекты\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проекты\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проекты\Text\Text\obj\Debug\Text.exe
+C:\Users\Роман\Desktop\Проекты\Text\Text\obj\Debug\Text.pdb

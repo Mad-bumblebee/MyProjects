@@ -1,0 +1,150 @@
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 2 — копия\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 4\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 5 — копия\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 6\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 7\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 8\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 9\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 10\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 11\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проект Рисовалка\Drawing 12\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Роман\Desktop\Проекты\Drawing\Drawing\obj\Debug\Drawing.pdb
